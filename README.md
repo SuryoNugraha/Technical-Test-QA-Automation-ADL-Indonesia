@@ -12,7 +12,7 @@ Covers two scenarios:
 
 📦 Project Structure
 
-    WeatherAPIAutomation/
+    Technical Test QA Automation ADL Indonesia/
     ├── Object Repository/
     │   └── API Request/
     │       ├── Get_Weather_Airpolution_JakartaSelatan(RawaBarat)
